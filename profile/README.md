@@ -5,7 +5,10 @@
 
 ## Core Values
 * Language & Framework Agnostic  
-* Lightweight Meetings  
+* Lightweight Meetings
 
+## We cover ...
+* Solutions to technical challenges in Backend
+* Topics across various areas of Computer Science
 
 since 2025.02
